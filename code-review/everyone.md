@@ -1,6 +1,5 @@
- # Code Review
----
-
+ ## Code Review
+ 
 A Guide for everyone while reviewing code.
 
 ## Everyone
@@ -18,5 +17,3 @@ A Guide for everyone while reviewing code.
 - if there are too many "I didn't understand" or "Alternative solution:" comments on pull request.
 Take the conversion were you can talk synchronously (e.g. chat, screensharing, in person) 
 - Post a follow-up comment summarizing the discussion and what was concluded.
-
-
