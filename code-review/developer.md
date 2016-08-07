@@ -5,7 +5,7 @@ Guidelines for Developer while having your code reviewed.
 
 - The primary reviewer is the author i.e YOU
 - Create a checklist for yourself of the things that the code reviews tend to focus on
-	- Checklist for Developer
+	- [Checklist for Developer](https://github.com/coderaga/mentor/blob/master/code-review/checklist-for-developer.md "Checklist for Developer")
 - Don't take it personally. The review is of the code, not you. Remember, You are not your code.
 - Understand and accept that you will make mistakes
 - Be grateful for the reviewer's suggestions. ("Good call. I'll make that change.")
@@ -18,7 +18,3 @@ Guidelines for Developer while having your code reviewed.
 - Try to respond to every comment.
 - Wait to merge the branch until Continuous Integration (TDDium, TravisCI, etc.) tells you the test suite is green in the branch.
 - Merge once you feel confident in the code and its impact on the project.
-
-
-
-
