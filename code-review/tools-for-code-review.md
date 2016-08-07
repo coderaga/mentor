@@ -5,5 +5,5 @@ Reviewers can intergrate this tools with Github to get automated code review for
 - [Codeacy](https://www.codacy.com/ "Codeacy")
 - [Hound](https://houndci.com/ "Hound")
 - [CodeClimate](https://codeclimate.com/ "CodeClimate")
-- [Phabricator]("https://www.phacility.com/" "Phabricator")
-- [SmartBear]("https://smartbear.com/product/collaborator/overview/" "SmartBear")
+- [Phabricator](https://www.phacility.com/ "Phabricator")
+- [SmartBear](https://smartbear.com/product/collaborator/overview/ "SmartBear")
