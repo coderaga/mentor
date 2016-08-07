@@ -5,7 +5,7 @@
 Understand why the change is necessary (fixes a bug, improves the user experience, refactors the 
 existing code). Then:
 - Create a checklist for yourself of the things that the code reviews tend to focus on
-	- Checklist for Reviewer
+	- [Checklist for Reviewer](https://github.com/coderaga/mentor/blob/master/code-review/checklist-for-reviewer.md "Checklist for Reviewer")
 - Critique code instead of people – be kind to the coder, not to the code.
 - Treat people who know less than you with respect, deference, and patience
 - Communicate which ideas you feel strongly about and those you don't.
