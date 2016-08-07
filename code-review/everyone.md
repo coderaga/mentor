@@ -1,6 +1,5 @@
  ## Code Review
- 
-A Guide for everyone while reviewing code.
+ A Guide for everyone while reviewing code.
 
 ## Everyone
 - Accept that many programming decisions are opinions. Discuss tradeoffs, which you prefer, and reach a resolution quickly.
