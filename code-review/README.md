@@ -9,3 +9,4 @@ A guide for reviewing code and having your code reviewed.
   - [Reviewer](https://github.com/coderaga/mentor/blob/master/code-review/reviewer.md "Reviewer")
 - Code Review Process (Coming Soon)
 - [Tools that will help you conduct code reviews](https://github.com/coderaga/mentor/blob/master/code-review/tools-for-code-review.md)
+- [Best Kept Secrets of Peer Code Review (Free Book)](http://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf "SmartBear")
